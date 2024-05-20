@@ -1,1 +1,1 @@
-# konf2
+# konf2Conflict from repo2
